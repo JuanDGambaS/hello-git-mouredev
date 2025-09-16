@@ -3549,6 +3549,9 @@
 - hardynsnet
 - mpmerd
 - JeffAg96
-- AlvaTronsYT
+- AlvaTronsYT 
 - Ludeynis
-- [JuanDGambaS](https://github.com/JuanDGambaS)
+- JuanDGambaS
+- JaumeEsquerdo
+- aliciagomiz
+- JuanDGambaS
